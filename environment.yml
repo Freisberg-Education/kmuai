@@ -1,0 +1,11 @@
+name: kmuai-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - plotly
+  - nltk
+  - string
