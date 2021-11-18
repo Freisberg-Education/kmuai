@@ -7,5 +7,7 @@ dependencies:
   - pandas
   - scikit-learn
   - plotly
-  - nltk
-  - string
+  - pip
+  - pip:
+    - nltk
+    - string
